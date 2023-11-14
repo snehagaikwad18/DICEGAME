@@ -1,5 +1,8 @@
 # Getting Started with Create React App
+hero page
 ![image](https://github.com/snehagaikwad18/DICEGAME/assets/145195321/3548a825-408c-48a3-a5c7-9b0620a34458)
+
+play game
 ![image](https://github.com/snehagaikwad18/DICEGAME/assets/145195321/420b7c26-0946-4b01-800e-03d4067bbda7)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
